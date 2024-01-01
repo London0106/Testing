@@ -1,1 +1,1 @@
-console.log("Hello London.")
+const pair = "Hello London"
